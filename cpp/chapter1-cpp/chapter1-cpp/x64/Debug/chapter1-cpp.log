@@ -1,0 +1,6 @@
+﻿  Chapter1.cpp
+C:\Users\ASUS\Desktop\cpp\chapter1-cpp\chapter1-cpp\Chapter1.cpp(26,22): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\ASUS\Desktop\cpp\chapter1-cpp\chapter1-cpp\Chapter1.cpp(36,20): warning C4267: 'return': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ASUS\Desktop\cpp\chapter1-cpp\chapter1-cpp\Chapter1.cpp(40,20): warning C4267: 'return': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ASUS\Desktop\cpp\chapter1-cpp\chapter1-cpp\Chapter1.cpp(43,13): warning C4326: 'main' öğesinin dönüş türü 'int' olmalıdır, 'void' değil
+  chapter1-cpp.vcxproj -> C:\Users\ASUS\Desktop\cpp\chapter1-cpp\x64\Debug\chapter1-cpp.exe

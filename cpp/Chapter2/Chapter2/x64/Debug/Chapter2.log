@@ -1,0 +1,5 @@
+﻿  Chapter2.cpp
+C:\Users\ASUS\Desktop\cpp\Chapter2\Chapter2\Chapter2.cpp(5,20): warning C4267: 'return': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ASUS\Desktop\cpp\Chapter2\Chapter2\Chapter2.cpp(9,20): warning C4267: 'return': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ASUS\Desktop\cpp\Chapter2\Chapter2\Chapter2.cpp(17,13): warning C4326: 'main' öğesinin dönüş türü 'int' olmalıdır, 'void' değil
+  Chapter2.vcxproj -> C:\Users\ASUS\Desktop\cpp\Chapter2\x64\Debug\Chapter2.exe
